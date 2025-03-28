@@ -1,6 +1,6 @@
 # Indian Traffic Violations Analysis
 
-![Project Image](<>)
+![Project Image](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/dataset-cover.jpeg>)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logoColor=white)
