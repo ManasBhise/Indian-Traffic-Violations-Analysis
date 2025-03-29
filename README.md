@@ -14,9 +14,9 @@ This project focuses on analyzing Indian traffic violations using Python for dat
 ## Data Analysis & Key Findings
 
 ### Violation Type Distribution
-![Violation Type Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Traffic%20Violations%20by%20Gender.png>)
-- Over-speeding and signal jumping are the most common violations.
-- Lesser violations are recorded for driving without a license.
+![Violation Type Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20for%20Traffic%20Violations%20Type.png>)
+- Drunk Driving and Wrong helmet are the most common type of violations
+- Lesser violations are recorded for overloading.
 
 ### Gender-Based Violations
 ![Gender-Based Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Traffic%20Violations%20by%20Gender.png>)
@@ -25,56 +25,51 @@ This project focuses on analyzing Indian traffic violations using Python for dat
 
 ### Violations by License Type
 ![License Type Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Traffic%20Violations%20by%20License%20Type.png>)
-- Two-wheeler and four-wheeler license holders commit the highest number of violations.
-- Heavy vehicle license holders have a lower violation count.
+- Heavy vehicles and four wheelers holds the highest number of violations
+- Commercial license holders have a lower violation count.
 
 ### Payment Method Distribution
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Payment%20Method%20for%20Fines.png>)
-- Online payments are the most preferred method for paying fines.
+- Most prefered method for payment is Cash and Card.
 - A significant number of fines remain unpaid.
 
 ### Distribution based on license validity
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Violation%20based%20on%20license%20validity.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- License suspended commited the most violations.
+- Significant amount of people have commited violations whose license has been expired.
 
 ### Distribution based on road condition
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Violations%20based%20on%20road%20condtiotions.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Violations are commited the most on under constructed or slippery roads
+-A significant number of violations has been commited on roads with potholes.
 
 ### Violations distribution based on weather conditions
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Distribution%20of%20Violations%20based%20on%20weather%20condition.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Rainy and Cloudy days has seen violations the most. 
+- Foggy condition has the least violations.
 
 ### High Risk Location For traffic Violations
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/High%20Risk%20Locations%20for%20Traffic%20Violations.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Gujrat and Maharashtra tops the list for Highest Risk for Traffic Violations.
+- Karnataka has the least traffic violations.
 
 ### Most common traffic violation
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Most%20Common%20Traffic%20Violations.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Drunk driving and No helmet are the most common traffic violations.
+- Using mobile phones and overloading has seen the least traffic violations
 
 ### Traffic Violations based on speed limit
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Traffic%20Violations%20based%20on%20speed%20limit.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Speed limit 60-80Km/hr has caused the major traffic violations
 
 ### Traffic Violations by age group
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/Traffic%20Violations%20by%20age%20group.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Traffic Violations increases as the age increases.
 
 ### Traffic Violations by vehicle type
 ![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/TrafficViolations%20by%20vehicle%20type.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
+- Scooter and Truck cause traffic violations the most
+- Car drivers commit the least traffic violations
 
-### Traffic Violations by locations
-![Payment Method Analysis](<https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis/blob/main/traffic%20violations%20by%20locations.png>)
-- Online payments are the most preferred method for paying fines.
-- A significant number of fines remain unpaid.
-
+## About
+Created by Manas Bhise on 28 March 2025
